@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "485520320158",
+    "project_id": "kartoon-5c5fc",
+    "storage_bucket": "kartoon-5c5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485520320158:ios:dec519bb1971b644cc7d8f",
+        "android_client_info": {
+          "package_name": "com.sm.kartoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485520320158-nlouvjm3mn5qh2v1g77o8bip0opachlc.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5hzU134YC1F8YhyjpdGPeBS_LXOUGiZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
